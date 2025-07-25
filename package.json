@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "form-data": "^2.5.1"
+    "form-data": "^2.5.5"
   },
   "devDependencies": {
     "@microsoft/api-documenter": "^7.8.45",
